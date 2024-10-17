@@ -23,7 +23,7 @@
   <b>the most liked animes: </b> Darling in the FranXX, 86: EIGHTY-SIX, Demon slayer, Dororo, Moonlight Fantasy, That time i got reincarnated as slime
   </li>
   <li>
-  <b>study in:</b> Russia, Moscow, school №1514
+  <b>studying in:</b> Russia, Moscow, school №1514
   </li>
   <br><br><br>
   </div>
