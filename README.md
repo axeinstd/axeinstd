@@ -3,7 +3,7 @@
     <div>
   <h2 align="center"> ~ like kotlin, c++ and neko girls nyaa <3 ~ </h2>
     <div align="center">
-  <img src="https://media1.tenor.com/m/wvkN1uM6EsoAAAAC/senko.gif" align="right" height=320>
+  <img src="https://media1.tenor.com/m/wvkN1uM6EsoAAAAC/senko.gif" align="right" height=300>
     </div>
   <li>
    <b>usrname:</b> axeinstd</li>
