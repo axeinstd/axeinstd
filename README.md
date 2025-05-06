@@ -1,17 +1,17 @@
 <body>
   <center>
     <div>
-  <h2 align="center"> ~ like kotlin, c++ and neko girls nyaa <3 ~ </h2>
+  <h2 align="center"> ~ like kotlin, c++ / c# and neko girls nyaa <3 ~ </h2>
     <div align="center">
   <img src="https://media1.tenor.com/m/wvkN1uM6EsoAAAAC/senko.gif" align="right" height="280">
     </div>
   <li>
    <b>usrname:</b> axeinstd</li>
   <li>
-  <b>use:</b> Windows 11 / Arch Linux + Hyprland + end_4 dotfiles, GUI: JetpackCompose, Qt6, Flutter
+  <b>use:</b> [Main] Windows 11 / Arch Linux + Hyprland, GUI: JetpackCompose, Qt6, Flutter
   </li>
   <li>
-  <b>lang that i like:</b> kotlin, c++
+  <b>lang that i like:</b> kotlin, c++ / c#
   </li>
   <li>
   <b>Gender:</b> he/his
